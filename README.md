@@ -8,6 +8,7 @@ first of all we have to create flutter app project so in terminal create a flutt
 
 2. run flutter create project_name
 
+![basic](https://user-images.githubusercontent.com/85615638/182829325-a76e58f6-683a-4970-ab4a-d5b22d101ea0.PNG)
 
 ## Now we want to change + icon in right-down corner to Github icon
 
@@ -19,6 +20,7 @@ first of all we have to create flutter app project so in terminal create a flutt
 
 ### step4: now you can use that downloaded icons like this:  Icon(MyFlutterApp.github_circled) instead of  Icon(Icons.add),
 
+![final](https://user-images.githubusercontent.com/85615638/182829348-baa1d008-f018-409c-8cec-a093a6654db7.PNG)
 
 
 
